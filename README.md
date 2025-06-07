@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arkya Sanyal a.k.a Arkya-Sanyal-007</h1>
+<h1 align="center">Hi 👋, I'm Arkya Sanyal a.k.a (Arkya-Sanyal-007) </h1>
 <h3 align="center">A curious AIML learner from India, creating real-world solutions with code and compassion.</h3>
 
 # 💫 About Me:
