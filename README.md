@@ -2,7 +2,7 @@
 <h3 align="center">A curious AIML learner from India, creating real-world solutions with code and compassion.</h3>
 
 # 💫 About Me:
-Hey there! I’m a Tech Enthusiast on a mission to merge innovation with impact:<br><br>🧠 **Passionate & Purpose-Driven CSE(AI/ML) Student**<br>I’m a B.Tech student specializing in Computer Science & Engineering (AI/ML). My journey is fueled by curiosity for intelligent systems and a drive to solve real-world problems with data-driven solutions.<br><br>🚀 Currently building an Indian Sign Language ML Model<br>Crafting inclusive AI solutions that empower the deaf community through accurate, real-time gesture recognition.<br><br>🌐 Learning Web Development (from scratch)<br>Diving into HTML, CSS, JavaScript, and beyond to bring sleek, responsive experiences to life on the web.<br><br>🤖 AIML Explorer<br>Experimenting with cutting-edge algorithms—from neural networks to reinforcement learning—to solve tomorrow’s challenges today.<br><br>💡 Driven by Curiosity & Collaboration<br>Whether sketching wireframes or tuning hyperparameters, I thrive on turning “what if?” into “what’s next?”<br><br>“Innovate boldly. Code kindly. Impact endlessly.” ✨<br><br>Let’s connect and build something amazing—one keystroke at a time!
+Hey there! I’m a Tech Enthusiast on a mission to merge innovation with impact:<br><br>🧠 **Passionate & Purpose-Driven CSE(AI/ML) Student**<br>I’m a B.Tech student specializing in Computer Science & Engineering (AI/ML). My journey is fueled by curiosity for intelligent systems and a drive to solve real-world problems with data-driven solutions.<br><br>🚀 **Currently building an Indian Sign Language ML Model**<br>Crafting inclusive AI solutions that empower the deaf community through accurate, real-time gesture recognition.<br><br>🌐 **Learning Web Development (from scratch)**<br>Diving into HTML, CSS, JavaScript, and beyond to bring sleek, responsive experiences to life on the web.<br><br>**🤖 AIML Explorer**<br>Experimenting with cutting-edge algorithms—from neural networks to reinforcement learning—to solve tomorrow’s challenges today.<br><br>**💡 Driven by Curiosity & Collaboration**<br>Whether sketching wireframes or tuning hyperparameters, I thrive on turning “what if?” into “what’s next?”<br><br>“Innovate boldly. Code kindly. Impact endlessly.” ✨<br><br>Let’s connect and build something amazing—one keystroke at a time!
 
 
 ## 🌐 Connect with me:
@@ -27,9 +27,6 @@ Hey there! I’m a Tech Enthusiast on a mission to merge innovation with impact:
 - 🎧 Tech, mindset, and innovation podcasts are my daily fuel
 - 🧠 I love breaking down tough ML topics into bite-sized, fun content!
   
-  ---
-
-Let's build something amazing with AI!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arkya-Sanyal-007&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
