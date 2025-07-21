@@ -2,16 +2,16 @@
 <h3 align="center">A curious AIML learner from India, creating real-world solutions with code and compassion.</h3>
 
 # 💫 About Me:
-Hey there! I’m a Tech Enthusiast on a mission to merge innovation with impact:<br><br>🧠 **Passionate & Purpose-Driven CSE(AI/ML) Student**  I’m a B.Tech student specializing in Computer Science & Engineering (AI/ML). My journey is fueled by curiosity for intelligent systems and a drive to solve real-world problems with data-driven solutions.<br><br>🚀 Currently building an Indian Sign Language ML Model<br>Crafting inclusive AI solutions that empower the deaf community through accurate, real-time gesture recognition.<br><br>🌐 Learning Web Development (from scratch)<br>Diving into HTML, CSS, JavaScript, and beyond to bring sleek, responsive experiences to life on the web.<br><br>🤖 AIML Explorer<br>Experimenting with cutting-edge algorithms—from neural networks to reinforcement learning—to solve tomorrow’s challenges today.<br><br>💡 Driven by Curiosity & Collaboration<br>Whether sketching wireframes or tuning hyperparameters, I thrive on turning “what if?” into “what’s next?”<br><br>“Innovate boldly. Code kindly. Impact endlessly.” ✨<br><br>Let’s connect and build something amazing—one keystroke at a time!
+Hey there! I’m a Tech Enthusiast on a mission to merge innovation with impact:<br><br>🧠 **Passionate & Purpose-Driven CSE(AI/ML) Student**<br>I’m a B.Tech student specializing in Computer Science & Engineering (AI/ML). My journey is fueled by curiosity for intelligent systems and a drive to solve real-world problems with data-driven solutions.<br><br>🚀 Currently building an Indian Sign Language ML Model<br>Crafting inclusive AI solutions that empower the deaf community through accurate, real-time gesture recognition.<br><br>🌐 Learning Web Development (from scratch)<br>Diving into HTML, CSS, JavaScript, and beyond to bring sleek, responsive experiences to life on the web.<br><br>🤖 AIML Explorer<br>Experimenting with cutting-edge algorithms—from neural networks to reinforcement learning—to solve tomorrow’s challenges today.<br><br>💡 Driven by Curiosity & Collaboration<br>Whether sketching wireframes or tuning hyperparameters, I thrive on turning “what if?” into “what’s next?”<br><br>“Innovate boldly. Code kindly. Impact endlessly.” ✨<br><br>Let’s connect and build something amazing—one keystroke at a time!
 
 
 ## 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/arkya-sanyal" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:arkyasanyal03@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
+    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Email"/>
   </a>
 </p>
 
