@@ -4,7 +4,7 @@
 # 💫 About Me:
 **Hey there! I’m a Tech Enthusiast on a mission to merge innovation with impact:**<br><br>🧠 **Passionate & Purpose-Driven CSE(AI/ML) Student**<br>I’m a B.Tech student specializing in Computer Science & Engineering (AI/ML). My journey is fueled by curiosity for intelligent systems and a drive to solve real-world problems with data-driven solutions.<br><br>🤖 **AIML Explorer**<br>Experimenting with cutting-edge algorithms—from neural networks to reinforcement learning—to solve tomorrow’s challenges today.<br><br>**💡 Driven by Curiosity & Collaboration**<br>Whether sketching wireframes or tuning hyperparameters, I thrive on turning “what if?” into “what’s next?”<br><br>**“Innovate boldly. Code kindly. Impact endlessly.” ✨**
 
-## 🌐 Connect with me:
+# 🌐 Connect with me:
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 </div>
 
-## 🌱 Fun Facts & Hobbies of mine
+# 🌱 Fun Facts & Hobbies of mine
 
 - 🤖 Tinkering with AI/ML projects is my creative outlet
 - 🥊 Building strength through boxing & calisthenics
@@ -62,8 +62,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=arkya-sanyal-007&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arkya-sanyal-007&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 GitHub Commits:
 <div align="center">
 
+  <a href="http://www.github.com/arkya-sanyal-007">
+  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=arkya-sanyal-007&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
+</a> <br/>
+
+</div>
+
+<div align="center">
+
+##
  ![snake gif](https://github.com/Arkya-Sanyal-007/Arkya-Sanyal-007/blob/output/github-snake-dark.svg)
 
 </div>
