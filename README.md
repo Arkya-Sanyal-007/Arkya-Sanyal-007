@@ -6,14 +6,31 @@
 
 
 ## 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/arkya-sanyal" target="_blank">
-    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:arkyasanyal03@gmail.com">
-    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Email"/>
-  </a>
-</p>
+<a href="https://www.github.com/arkya-sanyal-007" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
+</picture>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/arkya-sanyal" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
+</picture>
+</a> &nbsp;
+<a href="https://www.facebook.com/arkya.sanyal.79" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/facebook.svg" alt="facebook" />
+</picture>
+</a> &nbsp;
+<a href="https://www.instagram.com/_a.r.k.y.a_nvm_" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
+</picture>
+</a> &nbsp;
+<a href="https://www.discord.com/users/arkya sanyal" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg" alt="discord" />
+</picture>
+</a> &nbsp;
 
  
 # 💻 Tech Stack:
