@@ -1,5 +1,10 @@
+<div align="center">
+  
+![logo](https://github.com/Arkya-Sanyal-007/Arkya-Sanyal-007/blob/main/GitHub_banner.png)
+</div>
+
 <h1 align="center">Hi 👋, I'm Arkya Sanyal </h1>
-<h3 align="center">A curious AIML learner from India, creating real-world solutions with code and compassion.</h3>
+<h3 align="center">A curious AI/ML learner from India, creating real-world solutions with code and compassion.</h3>
 
 # 💫 About Me:
 **Hey there! I’m a Tech Enthusiast on a mission to merge innovation with impact:**<br><br>🧠 **Passionate & Purpose-Driven CSE(AI/ML) Student**<br>I’m a B.Tech student specializing in Computer Science & Engineering (AI/ML). My journey is fueled by curiosity for intelligent systems and a drive to solve real-world problems with data-driven solutions.<br><br>🤖 **AIML Explorer**<br>Experimenting with cutting-edge algorithms—from neural networks to reinforcement learning—to solve tomorrow’s challenges today.<br><br>**💡 Driven by Curiosity & Collaboration**<br>Whether sketching wireframes or tuning hyperparameters, I thrive on turning “what if?” into “what’s next?”<br><br>**“Innovate boldly. Code kindly. Impact endlessly.” ✨**
@@ -49,7 +54,7 @@
 
 </div>
 
-# 🌱 Fun Facts & Hobbies of mine
+# 🌱 Fun Facts & Hobbies of mine:
 
 - 🤖 Tinkering with AI/ML projects is my creative outlet
 - 🥊 Building strength through boxing & calisthenics
@@ -78,7 +83,7 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 
 <div align="center">
  
