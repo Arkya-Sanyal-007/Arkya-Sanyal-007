@@ -58,5 +58,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arkya-sanyal-007&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
----
+<div align="center">
+
+ ![snake gif](https://github.com/Arkya-Sanyal-007/Arkya-Sanyal-007/blob/output/github-snake-dark.svg)
+
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=arkya-sanyal-007&icon=6&color=0)](https://visitcount.itsvg.in)
