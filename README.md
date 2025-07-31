@@ -31,7 +31,7 @@ Hey there! I’m a Tech Enthusiast on a mission to merge innovation with impact:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arkya-Sanyal-007&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arkya-Sanyal-007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkya-Sanyal-007&theme=chatreuse-dark_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkya-Sanyal-007&theme=chatreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arkya-Sanyal-007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
