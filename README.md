@@ -63,7 +63,7 @@
 # 🌱 Fun Facts & Hobbies of mine:
 <div align="right">
 
-<img src="https://github.com/Arkya-Sanyal-007/Arkya-Sanyal-007/blob/main/icegif-96.gif" min-width="300px" max-width="300px" width="350px" align="right">
+<img src="https://github.com/Arkya-Sanyal-007/Arkya-Sanyal-007/blob/main/theme.gif" min-width="300px" max-width="300px" width="350px" align="right">
 </div>
 
 - 🤖 Tinkering with AI/ML projects is my creative outlet
