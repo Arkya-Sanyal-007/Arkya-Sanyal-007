@@ -125,6 +125,6 @@
 
 #
 <div align="center">
-✨ Thanks for visiting my profile. Please drop a ⭐ to help me grow.
+✨ Thanks for visiting my profile. Please drop a '⭐' to help me grow ✨
   
 </div>
