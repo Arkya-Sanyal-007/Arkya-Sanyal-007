@@ -5,6 +5,10 @@
 
 <h1 align="center">Hi 👋, I'm Arkya Sanyal </h1>
 <h3 align="center">A curious AI/ML learner from India, creating real-world solutions with code and compassion.</h3>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Arkya-Sanyal-007&abbreviated=true)
+</div>
 
 # 💫 About Me:
 <div align="right">
@@ -102,4 +106,3 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
