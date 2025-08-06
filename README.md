@@ -95,9 +95,9 @@
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arkya-sanyal-007&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=arkya-sanyal-007&theme=shadow_blue&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arkya-sanyal-007&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkya-Sanyal-007&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# 📊 Commits:
+# 📊 Commit Graph:
 <div align="center">
 
   <a href="http://www.github.com/arkya-sanyal-007">
