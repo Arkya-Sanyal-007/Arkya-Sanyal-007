@@ -102,4 +102,4 @@
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=arkya-sanyal-007&icon=6&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
