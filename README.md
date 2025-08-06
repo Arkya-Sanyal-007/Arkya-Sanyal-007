@@ -8,6 +8,8 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Arkya-Sanyal-007&abbreviated=true)
+![Followers](https://img.shields.io/github/followers/Arkya-Sanyal-007?label=Followers&style=social)
+
 </div>
 
 # 💫 About Me:
@@ -16,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 </div>
 
-**Hey there!👋 I’m a Tech Enthusiast on a mission to merge innovation with impact**<br><br>🧠 **Passionate & Purpose-Driven Individual**<br>I’m a B.Tech student specializing in Computer Science & Engineering (AI/ML). My journey is fueled by curiosity for intelligent systems and a drive to solve real-world problems with data-driven solutions.<br><br>🤖 **AIML Explorer**<br>Experimenting with cutting-edge algorithms—from neural networks to reinforcement learning—to solve tomorrow’s challenges today.<br><br>**💡 Driven by Curiosity & Collaboration**<br>Whether sketching wireframes or tuning hyperparameters, I thrive on turning “what if?” into “what’s next?”<br><br>**“Innovate boldly. Code kindly. Impact endlessly.” ✨**
+**Hey there!👋 I’m a Tech Enthusiast on a mission to merge innovation with impact**<br><br>🧠 **Passionate & Purpose-Driven Individual**<br>I’m a B.Tech student specializing in Computer Science & Engineering (AI/ML). My journey is fueled by curiosity for intelligent systems and a drive to solve real-world problems with data-driven solutions.<br><br> I'm passionate about **Machine Learning**, **Data Analytics** and **Generative AI**<br><br>🤖 **AIML Explorer**<br>Experimenting with cutting-edge algorithms—from neural networks to reinforcement learning—to solve tomorrow’s challenges today.<br><br>**💡 Driven by Curiosity & Collaboration**<br>Whether sketching wireframes or tuning hyperparameters, I thrive on turning “what if?” into “what’s next?”<br><br>**“Innovate boldly. Code kindly. Impact endlessly.” ✨**
 
 # 🌐 Connect with me:
 
@@ -105,4 +107,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Arkya-Sanyal-007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
+<br/>
 
+#
+<div align="center">
+✨ Thanks for visiting my profile. Please drop a ⭐ to help me grow.
+  
+</div>
