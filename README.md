@@ -87,7 +87,6 @@
 </div>
 
 - 🤖 Tinkering with AI/ML projects is my creative outlet
-- 🥊 Building strength through boxing & calisthenics
 - 🎧 Tech, mindset, and innovation podcasts are my daily fuel
 - 🧠 I love breaking down tough ML topics into bite-sized, fun content!
   
